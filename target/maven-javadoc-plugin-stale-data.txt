@@ -1,0 +1,59 @@
+@options
+@argfile
+-classpath
+'C:/Users/thias/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.core/2.7.7/org.eclipse.persistence.core-2.7.7.jar;C:/Users/thias/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.asm/2.7.7/org.eclipse.persistence.asm-2.7.7.jar;C:/Users/thias/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.antlr/2.7.7/org.eclipse.persistence.antlr-2.7.7.jar;C:/Users/thias/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa/2.7.7/org.eclipse.persistence.jpa-2.7.7.jar;C:/Users/thias/.m2/repository/org/eclipse/persistence/jakarta.persistence/2.2.3/jakarta.persistence-2.2.3.jar;C:/Users/thias/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa.jpql/2.7.7/org.eclipse.persistence.jpa.jpql-2.7.7.jar;C:/Users/thias/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.moxy/2.7.7/org.eclipse.persistence.moxy-2.7.7.jar;C:/Users/thias/.m2/repository/org/eclipse/persistence/javax.persistence/2.2.1/javax.persistence-2.2.1.jar;C:/Users/thias/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa.modelgen.processor/2.7.7/org.eclipse.persistence.jpa.modelgen.processor-2.7.7.jar;C:/Users/thias/.m2/repository/mysql/mysql-connector-java/8.0.26/mysql-connector-java-8.0.26.jar;C:/Users/thias/.m2/repository/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/thias/Desktop/Datamatiker/3.semester/Netbeans/to-delete/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/thias/Desktop/Datamatiker/3.semester/Netbeans/to-delete/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'to-delete 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/thias/Desktop/Datamatiker/3.semester/Netbeans/to-delete/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'to-delete 1.0-SNAPSHOT API'
+'C:/Users/thias/Desktop/Datamatiker/3.semester/Netbeans/to-delete/src/main/java/Entity/Book.java'
+'C:/Users/thias/Desktop/Datamatiker/3.semester/Netbeans/to-delete/src/main/java/Entity/EntityTester.java'
+C:\Users\thias\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.core\2.7.7\org.eclipse.persistence.core-2.7.7.jar = 1629969283185
+C:\Users\thias\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.asm\2.7.7\org.eclipse.persistence.asm-2.7.7.jar = 1629969282122
+C:\Users\thias\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.antlr\2.7.7\org.eclipse.persistence.antlr-2.7.7.jar = 1629969281485
+C:\Users\thias\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.jpa\2.7.7\org.eclipse.persistence.jpa-2.7.7.jar = 1629969282167
+C:\Users\thias\.m2\repository\org\eclipse\persistence\jakarta.persistence\2.2.3\jakarta.persistence-2.2.3.jar = 1629969282020
+C:\Users\thias\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.jpa.jpql\2.7.7\org.eclipse.persistence.jpa.jpql-2.7.7.jar = 1629969282188
+C:\Users\thias\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.moxy\2.7.7\org.eclipse.persistence.moxy-2.7.7.jar = 1630394770215
+C:\Users\thias\.m2\repository\org\eclipse\persistence\javax.persistence\2.2.1\javax.persistence-2.2.1.jar = 1630394770207
+C:\Users\thias\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.jpa.modelgen.processor\2.7.7\org.eclipse.persistence.jpa.modelgen.processor-2.7.7.jar = 1630394770187
+C:\Users\thias\.m2\repository\mysql\mysql-connector-java\8.0.26\mysql-connector-java-8.0.26.jar = 1630396125170
+C:\Users\thias\.m2\repository\com\google\protobuf\protobuf-java\3.11.4\protobuf-java-3.11.4.jar = 1630396125936
+C:\Users\thias\Desktop\Datamatiker\3.semester\Netbeans\to-delete\src\main\java = 1630395255004
+C:\Users\thias\Desktop\Datamatiker\3.semester\Netbeans\to-delete\target\apidocs\allclasses-index.html = 1630398920188
+C:\Users\thias\Desktop\Datamatiker\3.semester\Netbeans\to-delete\target\apidocs\allpackages-index.html = 1630398920192
+C:\Users\thias\Desktop\Datamatiker\3.semester\Netbeans\to-delete\target\apidocs\element-list = 1630398920126
+C:\Users\thias\Desktop\Datamatiker\3.semester\Netbeans\to-delete\target\apidocs\help-doc.html = 1630398920224
+C:\Users\thias\Desktop\Datamatiker\3.semester\Netbeans\to-delete\target\apidocs\index-all.html = 1630398920215
+C:\Users\thias\Desktop\Datamatiker\3.semester\Netbeans\to-delete\target\apidocs\index.html = 1630398920219
+C:\Users\thias\Desktop\Datamatiker\3.semester\Netbeans\to-delete\target\apidocs\jquery-ui.overrides.css = 1630398920279
+C:\Users\thias\Desktop\Datamatiker\3.semester\Netbeans\to-delete\target\apidocs\member-search-index.js = 1630398920200
+C:\Users\thias\Desktop\Datamatiker\3.semester\Netbeans\to-delete\target\apidocs\module-search-index.js = 1630398920194
+C:\Users\thias\Desktop\Datamatiker\3.semester\Netbeans\to-delete\target\apidocs\overview-tree.html = 1630398920171
+C:\Users\thias\Desktop\Datamatiker\3.semester\Netbeans\to-delete\target\apidocs\package-search-index.js = 1630398920196
+C:\Users\thias\Desktop\Datamatiker\3.semester\Netbeans\to-delete\target\apidocs\script.js = 1630398920231
+C:\Users\thias\Desktop\Datamatiker\3.semester\Netbeans\to-delete\target\apidocs\search.js = 1630398920236
+C:\Users\thias\Desktop\Datamatiker\3.semester\Netbeans\to-delete\target\apidocs\serialized-form.html = 1630398920152
+C:\Users\thias\Desktop\Datamatiker\3.semester\Netbeans\to-delete\target\apidocs\stylesheet.css = 1630398920228
+C:\Users\thias\Desktop\Datamatiker\3.semester\Netbeans\to-delete\target\apidocs\tag-search-index.js = 1630398920202
+C:\Users\thias\Desktop\Datamatiker\3.semester\Netbeans\to-delete\target\apidocs\type-search-index.js = 1630398920198
